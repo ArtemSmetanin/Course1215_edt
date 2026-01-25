@@ -43,5 +43,6 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Номенклатура1</catalogs>
   <catalogs>Catalog.Справочник12</catalogs>
+  <catalogs>Catalog.Справочник234</catalogs>
   <documents>Document.ПоступлениеТоваров</documents>
 </mdclass:Configuration>
