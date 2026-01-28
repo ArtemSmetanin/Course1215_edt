@@ -13,7 +13,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Внешний поставщик</vendor>
-  <version>1.0.0.1</version>
+  <version>1.0.0.2</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
@@ -37,6 +37,8 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщийМодуль1</commonModules>
+  <commonModules>CommonModule.ОбщийМодуль2</commonModules>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
   <documents>Document.Документ1</documents>
